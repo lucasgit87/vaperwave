@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # VAPORWAVE ## 
 Obs: Código ainda não finlizado!
+=======
+# VAPORWAVE 
+## Obs: Código ainda não finalizado!
+>>>>>>> 60d7bac4e91c38d18a486481eba27d71d6c93179
 
 ## Visão Geral do Projeto
 
