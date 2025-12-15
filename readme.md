@@ -1,5 +1,5 @@
-# VAPORWAVE ## Obs:
-   Código ainda não finlizado!
+# VAPORWAVE ## 
+Obs: Código ainda não finlizado!
 
 ## Visão Geral do Projeto
 
